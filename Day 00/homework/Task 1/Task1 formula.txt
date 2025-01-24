@@ -1,0 +1,1 @@
+dividing b by c gives us the amount of multiplies that c has from 1 to b, we do the same exact thing with a-1 / c, but we minus 1 because we're calculating from a to b, not including b, finally we just minus the second calculation from the first one, because we're counting from a to b, not 0 to b.

@@ -1,0 +1,11 @@
+ALG: Find_Maximum
+INPUT: Array A
+OUTPUT: Max_Value (უდიდესი ელემენტი მასივში)
+
+1. Max_Value <- A[1] 
+2. For i  2 to 5 do 
+3.     If A[i] > Max_Value then
+4.         Max_Value <- A[i]
+5.     End If
+6. End For
+7. Return Max_Value
